@@ -1,20 +1,61 @@
-<h1 align="centro"><b>Hola , soy Maicod Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-<pag align="centro">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Maicod+Gonzalez+Avila..&hearts;++;Ingeniero+industrial,;Analista+de+datos"></a>
-</p>
+<h1 alinear="centro">Hola! Soy Maicod Gonzalez! 👁️</h1>
 
-<br>
+<div alinear="centro">
+ <a href="https://ossinsight.io">
+  <img src="/web/static/img/screenshots/homepage.gif" height=360
+ </a>
+</div>
 
+<h4 alinear="centro">
+<b><a href="https://ossinsight.io/explore/">Ingeniero industrial</a></b>
+  •
+  <b><a href="https://ossinsight.io/analyze/Ovilia">Analisis de datos</a></b>
+  •
+  <a href="https://ossinsight.io/analyze/pingcap/tidb">Explorador de datos</a>
+  •
+  <a href="https://ossinsight.io/collections/open-source-database">Pensamiento lógico</a>
+  •
+  <a href="https://ossinsight.io/docs/workshop">Mejora Continua</a>
+  •
+  <a href="https://ossinsight.io/blog">Bases de datos</a>
+</h3>
 
-
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
-
-<br>
+## Introducci+on
 
 - Ingeniero industrial con enfoque de bases de datos
 - Me encuentro realizando un curso de Analisis de datos en TripleTen
 - Sitio web personal [link](https://www.linkedin.com/in/maicod-gonzalez-avila/)
 - Me encuentro abierto a una nueva oportunidad laboral, este es [mi currículum](file:///C:/Users/LYM08/OneDrive/Desktop/CV_Maicod_Gonzalez.pdf)
+</pag>
 
-<br><br>
+
+### 🛠&nbsp;Mis Habilidades
+
+### 🔧 Idiomas
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white)
+
+#### 📚 Librerias
+
+![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### 🔧 Herramientas
+
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conectate conmigo
+ <p align="center">
+	<a href="mailto:maicod.duon@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/maicodgonzalez"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/573197727693"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/maicod-gonzalez-avila/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
