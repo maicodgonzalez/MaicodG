@@ -25,7 +25,7 @@
 - Ingeniero industrial con enfoque de bases de datos
 - Me acabe de certificar de análisis de datos en TripleTen
 - Sitio web personal [link](https://www.linkedin.com/in/maicod-gonzalez-avila/)
-- Me encuentro abierto a una nueva oportunidad laboral, este es [mi currículum](file:///C:/Users/LYM08/OneDrive/Desktop/CV_Maicod_Gonzalez.pdf)
+- 📫 Cómo contactarme: maicod12@outlook.com y maicod.duon@gmail.com
 </pag>
 
 
@@ -34,6 +34,8 @@
 ### 🔧 Idiomas
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white)
+![TABLEU](68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d323834353744383f7374796c653d666f722d7468652d6261646765)
+![EXCEL](68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f457863656c2d3231373334363f7374796c653d666f722d7468652d6261646765)
 
 #### 📚 Librerias
 
