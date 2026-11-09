@@ -1,5 +1,6 @@
 <div id="encabezamiento" alinear="centro">
-	<imagen descodificacion="asíncrono" src=""
+	<imagen descodificacion="asíncrono" src="<img width="2163" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/39598a05-ee14-4d47-b4e1-120c223afaf9" />
+"
 
 <h1 alinear="centro">Hola! Soy Maicod Gonzalez! 👁️</h1>
 
