@@ -1,3 +1,6 @@
+<div id="encabezamiento" alinear="centro">
+	<imagen descodificacion="asíncrono" src="<img width="2163" height="690" alt="AdobeExpressPhotos_fe29db8d8b254d89894e3e12a9be5d7c_CopyEdited" src="https://github.com/user-attachments/assets/263f1e15-a8c1-484a-827e-9456de9a64fd" />"
+
 <h1 alinear="centro">Hola! Soy Maicod Gonzalez! 👁️</h1>
 
 <div alinear="centro">
