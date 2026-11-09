@@ -23,7 +23,7 @@
 ## Introducci+on
 
 - Ingeniero industrial con enfoque de bases de datos
-- Me encuentro realizando un curso de Analisis de datos en TripleTen
+- Me acabe de certificar de análisis de datos en TripleTen
 - Sitio web personal [link](https://www.linkedin.com/in/maicod-gonzalez-avila/)
 - Me encuentro abierto a una nueva oportunidad laboral, este es [mi currículum](file:///C:/Users/LYM08/OneDrive/Desktop/CV_Maicod_Gonzalez.pdf)
 </pag>
