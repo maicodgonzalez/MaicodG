@@ -35,8 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white)
 ![TABLEU](68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d323834353744383f7374796c653d666f722d7468652d6261646765)
-![EXCEL](https://img.shields.io/badge/excel
-)
+![EXCEL](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&utm_source=chatgpt.com)
 📊![POWER BI]
 
 #### 📚 Librerias
